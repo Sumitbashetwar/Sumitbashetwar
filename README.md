@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Sumitbashetwar
-- 👀 I’m interested in CODING...
-- 🌱 I’m currently working as a senior software engineer at Morgan Stanley.
-- 💞️ I’m looking to collaborate on @sumit_15_08
-- 📫 How to reach me sumitbashetwar@gmail.com / +91-8975688691
+# Hi 👋 I'm Sumit
 
-<!---
-Sumitbashetwar/Sumitbashetwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Engineer with 2.5+ years of experience at Morgan Stanley  
+🚀 Backend-focused developer passionate about scalable systems, distributed architectures, and clean design  
+
+---
+
+## 🧠 Tech Stack
+- Java, Spring Boot, REST APIs, gRPC  
+- Redis Caching, Kafka, MySQL, MongoDB  
+- System Design, LLD, Design Patterns  
+- Exploring GenAI & distributed systems  
+
+---
+
+## 🏆 Achievements & Projects
+- 🥇 Winner of internal Morgan Stanley Hackathon  
+- 🏦 Built a **banking platform** supporting secure transaction flows, service integrations, and scalable backend architecture  
+- 💡 Built **Codelyzer** – a coding platform with multi-language execution and admin-driven test case validation  
+
+---
+
+## 🌱 Currently Learning
+- Advanced system design & scalability patterns  
+- Performance optimization techniques  
+- AI-assisted developer tools  
+
+---
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sumit-bashetwar-b2811518b/
+- Email: sumitbashetwar@gmail.com
+
+---
+
+⭐ *Always open to engineering discussions, collaborations, and impactful opportunities*
