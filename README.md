@@ -23,7 +23,7 @@ If you're hiring or building something impactful, feel free to reach out 🙂
 
 ---
 
-## 🏆 Highlighted Projects
+## 🏆 Highlighted Personal Projects
 
 ### 🏦 Banking Platform
 Built a backend system supporting secure transaction processing, service integrations, and scalable architecture patterns used in financial systems.
