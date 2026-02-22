@@ -15,7 +15,7 @@
 
 ## 🏆 Achievements & Projects
 - 🥇 Winner of internal Morgan Stanley Hackathon  
-- 🏦 Built a **banking platform** supporting secure transaction flows, service integrations, and scalable backend architecture  
+- 🏦 Built a **Banking Platform** supporting secure transaction flows, service integrations, and scalable backend architecture  
 - 💡 Built **Codelyzer** – a coding platform with multi-language execution and admin-driven test case validation  
 
 ---
@@ -30,6 +30,13 @@
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/sumit-bashetwar-b2811518b/
 - Email: sumitbashetwar@gmail.com
+- Phone: +91-8975688691
+
+---
+
+## 🚀 Open to Opportunities
+I’m currently open to backend engineering roles, platform engineering work, and challenging system design problems.
+If you’re hiring or working on interesting problems, feel free to reach out 🙂
 
 ---
 
