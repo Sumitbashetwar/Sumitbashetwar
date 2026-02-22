@@ -1,13 +1,13 @@
 # Hi 👋 I'm Sumit
 
 💻 Software Engineer with 2.5+ years of experience at Morgan Stanley  
-🚀 Backend-focused developer passionate about scalable systems, distributed architectures, and clean design  
+🚀 Backend-focused engineer passionate about distributed systems, scalable backend architecture, and performance optimization  
 
 ---
 
 ## 🚀 Open to Opportunities
 I’m currently open to backend engineering roles, platform engineering work, and challenging system design problems.  
-If you’re hiring or working on interesting problems, feel free to reach out 🙂
+If you're hiring or building something impactful, feel free to reach out 🙂
 
 ---
 
@@ -23,18 +23,20 @@ If you’re hiring or working on interesting problems, feel free to reach out �
 
 ---
 
-## 🏆 Achievements & Projects
+## 🏆 Highlighted Projects
 
-- 🥇 Winner of internal Morgan Stanley Hackathon  
-- 🏦 Built a **Banking Platform** supporting secure transaction flows, service integrations, and scalable backend architecture  
-- 💡 Built **Codelyzer** – a coding platform with multi-language execution and admin-driven test case validation  
+### 🏦 Banking Platform
+Built a backend system supporting secure transaction processing, service integrations, and scalable architecture patterns used in financial systems.
+
+### 💡 Codelyzer
+Developed a coding platform with multi-language execution support and admin-configurable test case validation, inspired by platforms like LeetCode.
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced system design & scalability patterns  
 - Performance optimization techniques  
-- AI-assisted developer tools  
+- AI-assisted developer tooling  
 
 ---
 
@@ -45,12 +47,6 @@ If you’re hiring or working on interesting problems, feel free to reach out �
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sumitbashetwar@gmail.com)
 
 📱 **Phone:** +91-8975688691  
-
----
-
-## 🚀 Open to Opportunities
-I’m currently open to backend engineering roles, platform engineering work, and challenging system design problems.
-If you’re hiring or working on interesting problems, feel free to reach out 🙂
 
 ---
 
