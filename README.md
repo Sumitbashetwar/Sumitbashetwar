@@ -38,18 +38,6 @@ If you’re hiring or working on interesting problems, feel free to reach out �
 
 ---
 
-## 📊 GitHub Stats
-
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumitbashetwar&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitbashetwar&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-bashetwar-b2811518b/)
