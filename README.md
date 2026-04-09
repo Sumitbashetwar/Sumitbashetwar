@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sumit
 
-💻 Software Engineer with 2.5+ years of experience at Morgan Stanley  
+💻 Software Engineer with 3+ years of experience at Morgan Stanley  
 🚀 Backend-focused engineer passionate about distributed systems, scalable backend architecture, and performance optimization  
 
 ---
